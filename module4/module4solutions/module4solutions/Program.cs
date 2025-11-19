@@ -1,26 +1,20 @@
 ﻿using System;
-class MainClass
-{
-    static void Main(string[] args)
+class MainClass {
+  public static void Main (string[] args) {
+    //DaysOfWeek MyFavoriteDay;
 
-    {
+    //MyFavoriteDay = DaysOfWeek.Friday;
 
+    //Console.WriteLine(MyFavoriteDay);
 
-        //    const string Myname = "Jane";
-
-        //    Console.WriteLine(Myname);
-
-        //    Console.WriteLine("\t  Hey, world");
-        //    Console.WriteLine("\t  I`m 29 years old");
-        //    Console.WriteLine("\t  My name is  \nJane");
-
-
-        //solution 3.2.8
-
-        Console.WriteLine("\u0023");
-    
-    
-    }
-
+  }
 }
+
+//enum DaysOfWeek : byte
+//{
+//  Tuesday,
+//  Monday,
+//  Wednesday,
+//  Friday
+//}
 
